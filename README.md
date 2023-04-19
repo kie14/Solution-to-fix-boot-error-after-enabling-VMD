@@ -20,9 +20,9 @@ https://learn.microsoft.com/en-us/answers/questions/1151478/install-intel-vmd-dr
 
 p.s. VMD Controller could be toggled in MSI laptop by enabling advanced BIOS through [left alt]+[right ctrl]+[right shift]+[F2] > SA setting > VMD
 or to use the following
-
+ 
 VMD enable Tool & Steps: 
-1.      Download the tool from the link below and extract the file to the root directory of a USB flash drive. 
+1.      Download the tool from the link below and extract the file to the root directory of a USB flash drive.  
 https://download.msi.com/uti_exe/nb/VMD_Enable_Tool.zip 
 2.      Get another USB flash drive and create a bootable USB from the Media Creation tool. 
 https://www.microsoft.com/software-download/windows11   
@@ -32,4 +32,4 @@ https://www.microsoft.com/software-download/windows11
 *The Letter usually is “F:” or “G:”. Use “Dir” command to check if the selected USB drive is correct.   
 6.      Type “cd VMD Enable Tool\VMD Enable Tool” and press [Enter] to move into the subdirectory.  
 7.      Type “EnableVMD.cmd” to execute the tool.   
-8.      When it indicates “Done!”, press any key to reboot.
+8.      When it indicates “Done!”, press any key to reboot. 
