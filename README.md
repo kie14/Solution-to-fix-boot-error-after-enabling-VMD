@@ -24,7 +24,7 @@ or to use the following
 VMD enable Tool & Steps: 
 1.      Download the tool from the link below and extract the file to the root directory of a USB flash drive.  
 https://download.msi.com/uti_exe/nb/VMD_Enable_Tool.zip 
-2.      Get another USB flash drive and create a bootable USB from the Media Creation tool. 
+2.      Get another USB flash drive and create a bootable USB from the Media Creation tool.  
 https://www.microsoft.com/software-download/windows11   
 3.      Plug the 2 flash drives into the laptop and press [F11] when startup, then select the bootable USB. 
 4.      Press [Shift] + [F10] to open Command Prompt.   
