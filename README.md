@@ -1,4 +1,4 @@
-# Solution to fix boot error after enabling VMD
+# MSI Laptop - Solution to fix boot error after enabling VMD
 
 If you are not able to boot after enabling VMD in BIOS, this is due to VMD driver not being included in the boot image and not loaded upon boot.
 This results the system cannot recognize the boot drive and causing the blue screen of not finding boot drive.
